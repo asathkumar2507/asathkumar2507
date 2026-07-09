@@ -1,16 +1,19 @@
-## Hi there 👋
+const asathKumar = {
+    name: "Asath Kumar Palanisamy",
+    location: "Coimbatore, Tamil Nadu, India",
+    degree: "B.Tech in Information Technology",
+    role: "Web Designer",
+    experience: "1.5+ years as Web Designer, 1+ year as Process Executive",
+    stack: [
+        "Figma", "Adobe Photoshop", "Adobe Illustrator",
+        "Adobe InDesign", "HTML5", "CSS3",
+        "JavaScript", "Bootstrap 4/5", "WordPress"
+    ],
+    currentlyLearning: ["Advanced JavaScript", "React", "Responsive Web Frameworks"],
+    funFact: "Redesigned a website that boosted user satisfaction by 100%!",
+    motto: function() {
+        return "Design with clarity, build with purpose.";
+    }
+};
 
-<!--
-**asathkumar2507/asathkumar2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log(asathKumar.motto());
