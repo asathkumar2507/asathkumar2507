@@ -12,8 +12,7 @@
 
 ### 👋 About Me
 
-```javascript
-const asathKumar = {
+const asathKumar = Object.freeze({
     name: "Asath Kumar Palanisamy",
     location: "Coimbatore, Tamil Nadu, India",
     degree: "B.Tech in Information Technology",
@@ -26,10 +25,10 @@ const asathKumar = {
     ],
     currentlyLearning: ["Advanced JavaScript", "React", "Responsive Web Frameworks"],
     funFact: "Redesigned a website that boosted user satisfaction by 100%!",
-    motto: function() {
+    motto() {
         return "Design with clarity, build with purpose.";
     }
-};
+});
 
 console.log(asathKumar.motto());
 ```
