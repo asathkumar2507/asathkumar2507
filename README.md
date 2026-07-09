@@ -64,7 +64,7 @@ console.log(asathKumar.motto());
 
 ---
 
-### 📊 GitHub Stats
+---### 📊 GitHub Stats
 
 <div align="center">
 
@@ -87,7 +87,7 @@ console.log(asathKumar.motto());
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=asathkumar27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
+</div>---
 
 ---
 
