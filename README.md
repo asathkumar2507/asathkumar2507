@@ -12,7 +12,8 @@
 
 ### 👋 About Me
 
-```javascript
+```
+javascript
 const asathKumar = {
     name: "Asath Kumar Palanisamy",
     location: "Coimbatore, Tamil Nadu, India",
