@@ -12,7 +12,8 @@
 
 ### 👋 About Me
 
-const asathKumar = Object.freeze({
+```javascript
+const asathKumar = {
     name: "Asath Kumar Palanisamy",
     location: "Coimbatore, Tamil Nadu, India",
     degree: "B.Tech in Information Technology",
@@ -25,10 +26,10 @@ const asathKumar = Object.freeze({
     ],
     currentlyLearning: ["Advanced JavaScript", "React", "Responsive Web Frameworks"],
     funFact: "Redesigned a website that boosted user satisfaction by 100%!",
-    motto() {
+    motto: function() {
         return "Design with clarity, build with purpose.";
     }
-});
+};
 
 console.log(asathKumar.motto());
 ```
@@ -63,7 +64,7 @@ console.log(asathKumar.motto());
 
 ---
 
----### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -86,7 +87,7 @@ console.log(asathKumar.motto());
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=asathkumar27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>---
+</div>
 
 ---
 
